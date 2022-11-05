@@ -53,7 +53,11 @@
 <br>
 
 
+<p align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zelihaznk&theme=TEMA-İSMİ&show_icons=true&count_private=true)"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zelihaznk&layout=compact&langs_count=8&theme=TEMA-İSMİ"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zelihaznk&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelihaznk&layout=compact&langs_count-16&theme=dracula"/>
+
+
 
