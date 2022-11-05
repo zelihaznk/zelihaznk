@@ -1,6 +1,6 @@
  <h1 align=center style="color:aqua" >Hi  👋 its Zeliha over here!</h1>
  
- <h2>I'm Software Test Specialist</h2>
+<h2>I'm Software Test Specialist</h2>
 
 <h3>About me⚡ </h3> 
 <p></p>
