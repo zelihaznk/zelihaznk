@@ -2,7 +2,7 @@
  
 <h2>I'm Software Test Specialist</h2>
 
-<h3>About me⚡ </h3> 
+<h3>About me 🍀 </h3> 
 <p></p>
 
 <br>
