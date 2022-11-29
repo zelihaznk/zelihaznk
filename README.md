@@ -3,6 +3,7 @@
 <h2>I'm Software Test Specialist</h2>
 
 <h3>About me 🍀 </h3> 
+Quality Assurance Test Engineer with a demonstrated history of work.  I attended a year-long training to test Manual, UI and Backend . Manual tests were run using JIRA-Xray while UI testing over Java was used for Selenium Web Driver, JUNIT, TestNG and Cucumber. Backend Tests were accomplished using API, SQL, JDBC, Postman. In addition, I collaborated using Github. I have solid understanding and skills using Software Development Lifecycle (SDLC), Software Testing Lifecycle (STLC) within Agile/Scrum Methodology. I have strong analytical and communication skills, work ethic, ability to ask research questions, organized, detailed-oriented, and fun and easy-going personality.
 <p></p>
 
 <br>
