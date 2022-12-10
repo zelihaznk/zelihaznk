@@ -52,8 +52,25 @@ I have strong analytical and communication skills, work ethic, ability to ask re
 
 [<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
+<br>
 
 <br>
+<br>
+
+## Social Networks:
+[![Instagram][3.2]][3]
+
+[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
+
+
+[3]: https://www.instagram.com/zelihaoznk
+
+
+
+<br>
+<br>
+
+
 <br>
 <br>
 <br>
