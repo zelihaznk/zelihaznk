@@ -38,3 +38,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+          - ad: github-contribution-grid'den yılan oyunu oluştur
+  kullanır: Platane/snk@v2.1.0
+
