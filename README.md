@@ -80,5 +80,5 @@ I have strong analytical and communication skills, work ethic, ability to ask re
 </div> 
 
 
-##snake eating my contribution graph
+
 ![snake gif](https://github.com/zelihaznk/zelihaznk/blob/output/github-contribution-grid-snake.gif)
