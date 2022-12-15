@@ -1,6 +1,6 @@
  <h1 align=center style="color:aqua" >Hi 👋🏻 Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25"></h1>
 
-# My name is Zeliha
+# My name is Zeliha 👩🏻‍💻
 
 
 <h3>About me 🍀 </h3> 
