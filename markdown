@@ -11,3 +11,7 @@
 ! [Profil Görüntüleme Sayacı] ( https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 ### Depo Görüntüleme Sayacı - HITS
 ! [Vuruşlar] ( https://hitcounter.pythonanywhere.com/count/tag.svg? url = https://github.com/Tanu-N-Prabhu/Python)
+
+
+
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://www.pentalog.com/wp-content/uploads/2020/03/DevOps-engineer-job-roles-and-responsibilities.png" width="497" height="264">
