@@ -1,10 +1,10 @@
- <h1 align=center style="color:aqua" >Hi 👋🏻 Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25"></h1>
+ <h1 align=center style="color:aqua" >Hi 👋🏻 Welcome to my GitHub profile 🍀 </h1>
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Software+Test+Engineer.;I+am+sharing+my+projects+in+here;I+suggest+you+review+it+to+know+about+me+👩🏻‍💻;)  
 
 <h2>My name is Zeliha 👩🏻‍💻 </h2> 
 
-<h3>About me 🍀 </h3> 
+<h3>About me: </h3> 
 I have experience testing Manual, UI and Backend.
 While manual tests were performed using JIRA-Xray, UI testing over Java was used for Selenium Web Driver, JUNIT, TestNG and Cucumber.
 Backend Tests are done using API, SQL, JDBC, Postman.
