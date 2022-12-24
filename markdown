@@ -24,3 +24,9 @@
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zelihaznk&" alt="zelihaznk" /></p>
  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
+
+#### I am EMRE , I am QA Engineer.I really enjoy learning Java
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Emre+from+Turkey.;I+am+QA+Engineer.;I+really+enjoy+learning+Java;I+am+sharing+my+projects+in+here;)  
