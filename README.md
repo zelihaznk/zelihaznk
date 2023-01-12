@@ -79,7 +79,8 @@ I have strong analytical and communication skills, work ethic, ability to ask re
 <br>
 <br>
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=zelihaznk&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelihaznk&layout=compact&langs_count-16&theme=dracula"/>
 
  
  <div align="center">
