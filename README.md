@@ -56,6 +56,7 @@ I have strong analytical and communication skills, work ethic, ability to ask re
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.xtremepc.co.kr/wp-content/uploads/2020/04/Apache-Maven.jpg?fit=1200%2C1200&ssl=1" alt="maven" width="40" height="40"/> </a> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
 <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4" alt="xray" width="40" height="40"/> </a>  
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 
 ## Connect with me:
 
