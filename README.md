@@ -58,22 +58,12 @@ I have strong analytical and communication skills, work ethic, ability to ask re
 <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4" alt="xray" width="40" height="40"/> </a>  
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 
-## Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
 <br>
 
 <br>
 <br>
 
-## Social Networks:
-[![Instagram][3.2]][3]
-
-[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
-
-
-[3]: https://www.instagram.com/zelihaoznk
 
 
 <br>
